@@ -15,6 +15,11 @@ Exploratory Data Analysis (EDA) of Netflix's movies and TV shows dataset.
 - Top 10 countries producing content
 - Top 10 genres on the platform
 
+## Dashboard Preview
+
+![Netflix Dashboard](netflix_dashboard.png)
+
+
 ## Key Findings
 
 - Movies make up 69.7% of Netflix's library, TV Shows 30.3%
